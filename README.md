@@ -1,2 +1,2 @@
-# praticando-conceitos-poo
-Esse repositório foi criado para relembrar alguns conceitos importantes como herança, polimorfismo, interfaces e outros conceitos de Programação Orientada a Objetos. 
+# Práticando pilares da Programação Orientada a Objetos
+Esse repositório foi criado para relembrar/praticar alguns conceitos importantes como herança, polimorfismo, interfaces e entre outros conceitos e pilares muito importantes da POO. 
